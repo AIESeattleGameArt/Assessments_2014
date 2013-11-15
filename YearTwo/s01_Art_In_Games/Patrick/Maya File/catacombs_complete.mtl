@@ -1,0 +1,102 @@
+newmtl catacomb_end_1:catacomb_str_1_final:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_str_1_wall_floor_d.tga
+map_Ka catacomb_str_1_wall_floor_n.tga
+Ni 1.50
+newmtl catacomb_end_1:catacomb_str_1_final:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_str_1_ceiling_d.tga
+bump catacomb_str_1_ceiling_n.tga -bm 1
+Ni 1.00
+newmtl catacomb_hole_t_2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_str_1_baseboard_pillars_d.tga
+bump catacomb_str_1_baseboard_n.tga -bm 1
+Ni 1.00
+newmtl catacomb_hole_t_2:lambert3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_str_1_ceiling_d.tga
+bump catacomb_str_1_ceiling_n.tga -bm 1
+Ni 1.00
+newmtl catacomb_t_2:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_t_floor_d.tga
+bump catacomb_t_floor_n.tga -bm 1
+Ni 1.00
+newmtl chamber_UVs:chamber_unwrap:alternate_brick
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_brick_2_sm_d.tga
+bump catacomb_brick_2_sm_n.tga -bm 1
+Ni 1.50
+newmtl chamber_UVs:chamber_unwrap:broken_rock
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roughRock_2_d.tga
+Ni 1.50
+Ks 0.00 0.00 0.00
+Ns 10.00
+newmtl chamber_UVs:chamber_unwrap:sidebrick_tile
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacombs_sidebrick_tile_d.tga
+bump catacombs_sidebrick_tile_n.tga -bm 1
+Ni 1.50
+newmtl floorbreak:floor_to_break:___Default
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd catacomb_str_1_wall_floor_d.tga
+Ni 1.50
+newmtl floorbreak:lambert2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd roughRock_2_d.tga
+Ni 1.00
+newmtl pasted__lambert4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd Church_Props_Colormap.tga
+Ni 1.00
+newmtl pasted__lambert6SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd rubblr_1_uvs.psd
+bump rubblr_1_uvs.psd -bm 1
+Ni 1.00
+newmtl pasted__rubble_pdiSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd smoothRock_1_d.tga
+bump smoothRock_1_n.tga -bm 1
+Ni 1.00

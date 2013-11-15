@@ -1,0 +1,3 @@
+//Maya 2013 Project Definition
+
+workspace -fr "particles" "particles";
